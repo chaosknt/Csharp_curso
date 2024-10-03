@@ -1,0 +1,69 @@
+Operaciones aritmeticas
+
+1.- Declarar 2 variables de tipo numericas y mostrar por 
+consola el resultado de la suma entre ambas.
+
+2.- Declarar 2 variables de tipo numericas y mostrar por consola el resultado de la resta entre ambas.
+
+2.- Declarar 2 variables de tipo numericas y mostrar por 
+consola el resultado de la multiplicacion entre ambas.
+
+3.- Declarar 2 variables de tipo numericas y mostrar por consola el resultado de la division entre ambas. Tambien mostrar el resto de la division.
+
+4.- Declarar 3 variables, a,b y c. 
+
+a.- Realizar la suma de a + b * c
+a.- Realizar la resta de c * b - a
+
+mostrar por consola el resultado
+
+5- declarar 2 variables de tpo numericas. Mostrar por consola si la primer  variable es mayor que la segunda
+
+6-Pedir al usuario que ingrese su nombre por consola. Finalmente saludar al usuario 
+
+---------------------------
+If, while, do while, switch,
+
+If
+
+1- declarar 2 variables de tipo numericos. Mostrar por consola cual es el valor mayor
+
+2- declarar 3 variables de tipo numericos, Mostrar por consola cuaul es
+el valor mayor
+
+3- declarar una variable de tipo numerico, mostrar por consola si es par o impar
+
+4- Solicitar al usuario que ingrese un numero. Mostrar si ese numero  es primo
+
+While
+
+1- Solicitar al usuario que ingrese un numero. Imprimir todos los numeros  desde el numero ingresado al 100
+
+2- Solicitar al usuario que ingrese un numero. Imprimir por consola todos los numeros desde el numero ingresado al 0
+
+3-declarar 2 variables de tipo numericos. Imprimir por consola
+todos los numeros que hay entre el primer y segundo numero
+
+
+4- do wile
+
+1- Solicitar al usuario que ingrese una password. Mostrar un mensaje si 
+esa password es correcta o incorrecta. 
+
+2- Solicitar al usuario que ingrese el numero 9281, pedir que ingrese un numero hasta que el numero ingresado esa el solicitado. Imprimir el resultado en pantalla
+
+
+5- switch
+
+1-solicitar que el usuario ingrese un numero del 1 a 7. Imprimir en pantalla el dia de la semana
+1- solicitar al usuario que ingrese un mes del año: Imprimir por consola en que parte del año se encuentra
+Enero-abril: primera parte
+Mayo -Agosto: segunda parte
+Septiembre - diciembre: tercera parte
+
+
+Switch + do while
+
+6- Crear una calculadora para realizar Suma, resta, multiplicacion y division
+
+

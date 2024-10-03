@@ -1,0 +1,20 @@
+
+[6,4,8,9,0,3,1]
+
+1-Escribir un programa que dado un array, muestre sus valores en pantalla de adelante hacia atras
+2-Escribir un programa que dado un array, muestre sus valores en pantalla de atras hacia adelante
+3-Imprimir los valores pares del array
+4-Imprimir el valor mayor del array
+5-Imprimir el valor menor del array
+6-Invertir el array => [1,3,0,9,8,4,6]
+7-Solicitar al usuario que ingrese una palabra por consola, imprimir si esa palabra es palindromo
+8-Crear un array de personas (Nombre, Apellido, Dni) que inicialice las propiedades por parametro, La persona podra Saludar diciendo su nombre, y mostrar sus datos.
+llenar el array con valores, por ultimo crear un funcion que reciba el array de personas y un DNI y devuelva si la persona esta presente en el array.
+Si la persona existe se debera utilizar los metodos saludar primer y luego mostrara sus datos.
+9- Ordenar el array de Mayor a Menor
+
+
+Empezar con Parte grafica
+
+
+

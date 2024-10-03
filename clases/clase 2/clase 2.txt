@@ -1,0 +1,13 @@
+Repaso clase 1:
+
+Todo
+
+Operadores Logicos
+If
+While
+DoWhile
+Switch
+
+ejercicios
+
+Si queda tiempo ver Funciones

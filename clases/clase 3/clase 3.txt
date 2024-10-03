@@ -1,0 +1,49 @@
+Ciclo For
+break
+continue
+go to
+
+arreglos
+Funciones y procedimientos
+Estructuras
+Empezar con la interfaz visual
+
+
+-Imprimir todos los numeros multiplos de 5 que hay entre el 1 y el 5000
+
+-Escribir una funcion que reciba por parametro un numero
+e imprima todos los numeros del 0 a ese numero usando
+
+-Escribir una funcion que reciba por parametro un numero
+e imprima todos los numeros pares a ese numero usando
+
+-Escribir una funcion que reciba como parametro dos numeros
+Solicitar al usuario que ingrese un numero que se encuentre
+dentro del rango de numeros recibidos por parametro
+
+
+
+
+
+- Pedir al usuario Nombre, apellido, DNI, Email y edad
+crear un objeto con esas propiedades
+mostrar el objeto por consola
+
+- escribir un programa que reciba que contenga las siguientes opciones:
+
+1- Cargar un dato
+2- Mostrar datos guardados
+
+Si elije opcion 1:
+Guardar en una lista el siguiente objeto
+
+Nombre,
+Apellido
+Edad
+Estado civil
+Genero
+
+Si elije opcion 2:
+
+Imprimir por pantalla todos los objetos guardados
+

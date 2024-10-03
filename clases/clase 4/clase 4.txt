@@ -1,0 +1,52 @@
+Repaso Objetos
+Enumeraciones
+
+Arreglos
+arreglo bidimencionales
+
+Crear, inicializarlo, Length, copiar usando for
+
+
+Escribir un programa con las siguientes caracteristicas:
+-opcion1: la carga de alumnos,
+se debera solicitar la cantidad de personas que se desea ingresar por consola. 
+Luego empezar a pedir los datos por consola: cada alumno tiene Nombre, Apellido, DNI. Guardar los datos en un array
+
+validaciones: 
+Nombre, minimo 3 caracteres
+Apellido, minimo 3 caracteres
+DNI, 10 caracteres
+
+-opcion2: solicitar un DNI de 10 caracteres al usuario y buscar en la lista si se encuentra el alumno, si se encuentra
+mostrarlo por consola.
+
+
+-Con Enum: Re escribir la clase anterior para solicitar el tipo de identificacion (DNI o CUIT). En caso de que sea DNI debera validarse que ingrese 10 digitos. si es CUIT deberan ser 13
+
+
+-Escribir una funcion que reciba por parametro un numero
+Crear un array del tamaño recibido por parametro y llenarlo con numeros 
+pares
+
+
+-Escribir una funcion que reciba por parametro un array [6,4,8,9,0,3,1], devolver ese array ordenado sin crear un array nuevo. Se debera usar el mismo array
+para ordenarlo. Imprimir el array ordenado
+
+-verificar si una palabra es palindromo (palabra o frase que se lee igual en un sentido que en otro)
+
+
+-dado un arreglo bidimencional
+
+int[,] arreglo = new int[3, 3] 
+{
+    { 1, 2, 3 },
+    { 4, 5, 6 },
+    { 7, 8, 9 }
+};
+
+a- buscar el mayor
+b- buscar el menor
+c- sacar el promedio por hilera
+d- sacar el promedio general
+f- sacar la suma general de todos los numeros
+
